@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A frontend developer from Argentina</h3>
+<h3 align="center">A frontend developer from Argentina, currently based in Lisbon</h3>
 
-- 🌱 I’m currently learning **React Js**
-
+- 🌱 Currently I build projects using HTML, CSS and Javascript. I also use libraries and frameworks such as React Js, Vue Js and Ruby on Rails.
+- 
 - 👨‍💻 All of my projects are available at [https://mrfacundo.github.io/portfolio/](https://mrfacundo.github.io/portfolio/)
 
 - 📫 How to reach me **ftroitero@gmail.com**

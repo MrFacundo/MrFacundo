@@ -2,12 +2,15 @@
 <h3 align="center">A frontend developer from Argentina, currently based in Lisbon</h3>
 
 - 🌱 Currently I build projects using HTML, CSS and Javascript. I also use libraries and frameworks such as React Js, Vue Js and Ruby on Rails.
-- 
+
 - 👨‍💻 All of my projects are available at [https://mrfacundo.github.io/portfolio/](https://mrfacundo.github.io/portfolio/)
 
 - 📫 How to reach me **ftroitero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+[Linkedin](https://www.linkedin.com/in/facundo-t/)
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/facundo-t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/facundo-t/" height="30" width="40" /></a>
 </p>

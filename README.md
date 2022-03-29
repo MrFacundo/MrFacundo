@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrfacundo.github.io/portfolio/](https://mrfacundo.github.io/portfolio/)
 
-- 📫 How to reach me **ftroitero@gmail.com**
+- 📫 How to reach me: **ftroitero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 

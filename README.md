@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A web developer from Buenos Aires, currently based in Lisbon.</h3>
 
-- 👷 I'm currently working on [big web projects](https://www.starmag.com/)
+- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">big web projects</a>
 
 - 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-)
 

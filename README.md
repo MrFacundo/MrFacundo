@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C programming at 42 Lisboa**
 
-- 💼 All of my projects are available at [https://mrfacundo.github.io/portfolio/](https://mrfacundo.github.io/portfolio/)
+- 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/)
 
 - 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/)
 

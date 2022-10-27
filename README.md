@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A web developer from Buenos Aires, currently based in Lisbon.</h3>
 
-- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">big web projects</a>.
+- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
 
 - 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-).
 
@@ -10,7 +10,7 @@
 
 - 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/).
 
-- 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/).
+- 💬 I'm always open to new opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/).
 
 - 📄 Know about my [experiences](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf).
 

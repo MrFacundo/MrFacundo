@@ -6,7 +6,7 @@
 
 - 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-).
 
-- 🌱 I’m currently learning ****. [C programming at 42 Lisboa](https://www.42lisboa.com/en/about/).
+- 🌱 I’m currently learning C programming at [42 Lisboa](https://www.42lisboa.com/en/about/).
 
 - 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/).
 

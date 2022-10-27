@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A web developer from Buenos Aires, currently based in Lisbon.</h3>
 
-- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">big web projects</a>
+- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">big web projects</a>.
 
-- 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-)
+- 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-).
 
-- 🌱 I’m currently learning **C programming at 42 Lisboa**
+- 🌱 I’m currently learning **C programming at 42 Lisboa**.
 
-- 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/)
+- 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/).
 
-- 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/)
+- 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/).
 
-- 📄 Know about my [experiences](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf)
+- 📄 Know about my [experiences](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf).
 
 <p align="left">
 <a href="https://linkedin.com/in/facundo troitero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo troitero" height="30" width="40" /></a>

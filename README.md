@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A web developer from Buenos Aires, currently based in Lisbon.</h3>
 

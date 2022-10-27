@@ -10,11 +10,10 @@
 
 - 💼 All of my projects are available at [https://mrfacundo.github.io/portfolio/](https://mrfacundo.github.io/portfolio/)
 
-- 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com**
+- 💬 I'm always open to new job opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/)
 
-- 📄 Know about my experiences [https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf)
+- 📄 Know about my [experiences](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundo troitero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo troitero" height="30" width="40" /></a>
 </p>

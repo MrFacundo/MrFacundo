@@ -12,7 +12,7 @@
 
 - 💬 I'm always open to new opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/).
 
-- 📄 Know about my [experiences](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf).
+- 📄 Know about my [experience](https://github.com/MrFacundo/CV/blob/main/Facundo.Troitero.CV.pdf).
 
 <p align="left">
 <a href="https://linkedin.com/in/facundo troitero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo troitero" height="30" width="40" /></a>

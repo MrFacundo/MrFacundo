@@ -1,14 +1,14 @@
 <base target="_blank">
-<h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A web developer from Buenos Aires, currently based in Lisbon.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a web developer from Buenos Aires, currently based in Lisbon.</h3>
 
-- 👷 I'm currently working on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
+- 👷 Currently working on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
 
-- 👨‍💻 While also working as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-).
+- 👨‍💻 Also as a freelancer on [small personal projects](https://github.com/MrFacundo/MAE---Gatsby-Portfolio-).
 
-- 🌱 I’m currently learning C programming at [42 Lisboa](https://www.42lisboa.com/en/about/).
+- 🌱 Learning C programming at [42 Lisboa](https://www.42lisboa.com/en/about/).
 
-- 💼 All of my projects are available [here](https://mrfacundo.github.io/portfolio/).
+- 💼 Some of my projects are available [here](https://mrfacundo.github.io/portfolio/).
 
 - 💬 I'm always open to new opportunities, you can reach me at **ftroitero@gmail.com** and [LinkedIn](https://www.linkedin.com/in/facundo-t/).
 

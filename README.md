@@ -4,7 +4,7 @@
 
 - 👷 Currently working on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
 
-- 👨‍💻 Also as a freelancer on [small](https://lisboaemtango.pt/), [persona](https://mariadanaieguiguren.com) projects.
+- 👨‍💻 Also as a freelancer on [small](https://lisboaemtango.pt/), [personal](https://mariadanaieguiguren.com) projects.
 
 - 🌱 Learning C programming at [42 Lisboa](https://www.42lisboa.com/en/about/).
 

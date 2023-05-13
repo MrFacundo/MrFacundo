@@ -4,7 +4,7 @@
 
 - 👷 I work on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
 
-- 👨‍💻 Also as a freelancer with [small](https://lisboaemtango.pt/), [businesses](https://maegatsbyportfoliomain48188.gatsbyjs.io/).
+- 👨‍💻 Also as a freelancer with [small](https://lisboaemtango.pt/) [businesses](https://maegatsbyportfoliomain48188.gatsbyjs.io/).
 
 - 🌱 Learning not to panic at [42 Lisboa](https://www.42lisboa.com/en/about/).
 

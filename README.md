@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a web developer from Buenos Aires, currently based in Lisbon.</h3>
 
-- 👷 Currently working on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
+- 👷 I work on <a href="https://www.starmag.com/" target="_blank">large web projects</a>.
 
-- 👨‍💻 Also as a freelancer on [small](https://lisboaemtango.pt/), [personal](https://maegatsbyportfoliomain48188.gatsbyjs.io/) projects.
+- 👨‍💻 Also as a freelancer with [small](https://lisboaemtango.pt/), [businesses](https://maegatsbyportfoliomain48188.gatsbyjs.io/).
 
-- 🌱 Learning C programming at [42 Lisboa](https://www.42lisboa.com/en/about/).
+- 🌱 Learning not to panic at [42 Lisboa](https://www.42lisboa.com/en/about/).
 
 - 💼 Some of my projects are available [here](https://mrfacundo.github.io/portfolio/).
 

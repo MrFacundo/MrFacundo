@@ -6,9 +6,9 @@
 
 - 👨‍💻 Also as a freelancer with [small](https://lisboaemtango.pt/) [businesses](https://maegatsbyportfoliomain48188.gatsbyjs.io/).
 
+- 💼 You can checkout my projects [here](https://mrfacundo.github.io/).
+  
 - 🌱 Learning not to panic at [42 Lisboa](https://www.42lisboa.com/en/about/).
-
-- 💼 Most of my projects are available [here](https://mrfacundo.github.io/).
 
 - 📄 Know about my [experience](https://mrfacundo.github.io/resume.pdf).
   

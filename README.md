@@ -1,6 +1,6 @@
 <base target="_blank">
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a a Lisbon based web and software developer.</h3>
+<h3 align="center">I'm Facundo, a Lisbon based software developer</h3>
 
 - 👷 I collaborate with teams on <a href="https://www.starmag.com/" target="_blank">large scale</a> <a href="https://foot11.com/" target="_blank">web projects</a>.
 

@@ -6,7 +6,7 @@
 
 - 👨‍💻 I freelance, taking on [smaller projects](https://lisboaemtango.pt/) tailored to [specific needs](https://maegatsbyportfoliomain48188.gatsbyjs.io/).
   
-- 💬 Looking for a developer? reach me at **ftroitero@gmail.com** or [LinkedIn](https://www.linkedin.com/in/facundo-t/).
+- 💬 Looking for a developer? reach me at **ftroitero@proton.me** or [LinkedIn](https://www.linkedin.com/in/facundo-t/).
 
 - 💼 Here you can find my [portfolio](https://mrfacundo.github.io/) and [CV](https://mrfacundo.github.io/resume.pdf)
 
